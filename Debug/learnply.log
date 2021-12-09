@@ -1,0 +1,86 @@
+﻿  learnply.cpp
+C:\Users\Aidan\Code\cs-553\final\learnply\drawUtil.h(56,14): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aidan\Code\cs-553\final\learnply\drawUtil.h(60,45): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aidan\Code\cs-553\final\learnply\drawUtil.h(60,33): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aidan\Code\cs-553\final\learnply\drawUtil.h(60,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aidan\Code\cs-553\final\learnply\drawUtil.h(61,39): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aidan\Code\cs-553\final\learnply\drawUtil.h(61,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aidan\Code\cs-553\final\learnply\drawUtil.h(61,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aidan\Code\cs-553\final\learnply\drawUtil.h(75,14): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aidan\Code\cs-553\final\learnply\drawUtil.h(80,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Aidan\Code\cs-553\final\learnply\drawUtil.h(82,55): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aidan\Code\cs-553\final\learnply\drawUtil.h(82,40): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aidan\Code\cs-553\final\learnply\drawUtil.h(82,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aidan\Code\cs-553\final\learnply\drawUtil.h(83,49): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aidan\Code\cs-553\final\learnply\drawUtil.h(83,36): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aidan\Code\cs-553\final\learnply\drawUtil.h(83,23): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aidan\Code\cs-553\final\learnply\learnply.cpp(26,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Aidan\Code\cs-553\final\learnply\learnply.cpp(29,19): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Aidan\Code\cs-553\final\learnply\learnply.cpp(57,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aidan\Code\cs-553\final\learnply\learnply.cpp(58,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aidan\Code\cs-553\final\learnply\learnply.cpp(93,20): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Aidan\Code\cs-553\final\learnply\learnply.cpp(135,50): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Aidan\Code\cs-553\final\learnply\learnply.cpp(136,50): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Aidan\Code\cs-553\final\learnply\learnply.cpp(176,26): warning C4305: '=': truncation from 'double' to 'GLfloat'
+C:\Users\Aidan\Code\cs-553\final\learnply\learnply.cpp(188,44): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aidan\Code\cs-553\final\learnply\learnply.cpp(188,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aidan\Code\cs-553\final\learnply\learnply.cpp(203,55): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aidan\Code\cs-553\final\learnply\learnply.cpp(203,35): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aidan\Code\cs-553\final\learnply\learnply.cpp(203,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aidan\Code\cs-553\final\learnply\learnply.cpp(204,63): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aidan\Code\cs-553\final\learnply\learnply.cpp(204,39): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aidan\Code\cs-553\final\learnply\learnply.cpp(204,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aidan\Code\cs-553\final\learnply\learnply.cpp(243,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aidan\Code\cs-553\final\learnply\learnply.cpp(244,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aidan\Code\cs-553\final\learnply\learnply.cpp(249,12): warning C4101: 'k': unreferenced local variable
+C:\Users\Aidan\Code\cs-553\final\learnply\learnply.cpp(284,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Aidan\Code\cs-553\final\learnply\learnply.cpp(326,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Aidan\Code\cs-553\final\learnply\learnply.cpp(317,10): warning C4101: 'mat_diffuse': unreferenced local variable
+C:\Users\Aidan\Code\cs-553\final\learnply\learnply.cpp(370,15): warning C4101: 'i': unreferenced local variable
+C:\Users\Aidan\Code\cs-553\final\learnply\learnply.cpp(694,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aidan\Code\cs-553\final\learnply\learnply.cpp(694,53): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aidan\Code\cs-553\final\learnply\learnply.cpp(701,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aidan\Code\cs-553\final\learnply\learnply.cpp(701,57): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aidan\Code\cs-553\final\learnply\learnply.cpp(722,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aidan\Code\cs-553\final\learnply\learnply.cpp(722,53): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aidan\Code\cs-553\final\learnply\learnply.cpp(728,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aidan\Code\cs-553\final\learnply\learnply.cpp(728,57): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aidan\Code\cs-553\final\learnply\learnply.cpp(751,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aidan\Code\cs-553\final\learnply\learnply.cpp(751,53): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aidan\Code\cs-553\final\learnply\learnply.cpp(758,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aidan\Code\cs-553\final\learnply\learnply.cpp(758,57): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aidan\Code\cs-553\final\learnply\learnply.cpp(779,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aidan\Code\cs-553\final\learnply\learnply.cpp(779,53): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aidan\Code\cs-553\final\learnply\learnply.cpp(785,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aidan\Code\cs-553\final\learnply\learnply.cpp(785,57): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aidan\Code\cs-553\final\learnply\learnply.cpp(809,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aidan\Code\cs-553\final\learnply\learnply.cpp(809,53): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aidan\Code\cs-553\final\learnply\learnply.cpp(815,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aidan\Code\cs-553\final\learnply\learnply.cpp(815,57): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aidan\Code\cs-553\final\learnply\learnply.cpp(631,6): warning C4101: 'i': unreferenced local variable
+C:\Users\Aidan\Code\cs-553\final\learnply\learnply.cpp(848,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aidan\Code\cs-553\final\learnply\learnply.cpp(849,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aidan\Code\cs-553\final\learnply\learnply.cpp(897,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aidan\Code\cs-553\final\learnply\learnply.cpp(898,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aidan\Code\cs-553\final\learnply\learnply.cpp(1094,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aidan\Code\cs-553\final\learnply\learnply.cpp(1095,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aidan\Code\cs-553\final\learnply\learnply.cpp(1152,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aidan\Code\cs-553\final\learnply\learnply.cpp(1152,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aidan\Code\cs-553\final\learnply\learnply.cpp(1214,51): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Aidan\Code\cs-553\final\learnply\learnply.cpp(1268,43): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aidan\Code\cs-553\final\learnply\learnply.cpp(1268,32): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aidan\Code\cs-553\final\learnply\learnply.cpp(1268,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aidan\Code\cs-553\final\learnply\learnply.cpp(1283,51): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Aidan\Code\cs-553\final\learnply\learnply.cpp(1301,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Aidan\Code\cs-553\final\learnply\learnply.cpp(1307,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Aidan\Code\cs-553\final\learnply\learnply.cpp(1352,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Aidan\Code\cs-553\final\learnply\learnply.cpp(1355,67): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aidan\Code\cs-553\final\learnply\learnply.cpp(1355,54): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aidan\Code\cs-553\final\learnply\learnply.cpp(1355,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aidan\Code\cs-553\final\learnply\learnply.cpp(1359,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Aidan\Code\cs-553\final\learnply\learnply.cpp(1196,18): warning C4101: 'j': unreferenced local variable
+C:\Users\Aidan\Code\cs-553\final\learnply\learnply.cpp(1196,15): warning C4101: 'i': unreferenced local variable
+C:\Users\Aidan\Code\cs-553\final\learnply\learnply.cpp(564): warning C4172: returning address of local variable or temporary
+learnply.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  learnply.vcxproj -> C:\Users\Aidan\Code\cs-553\final\Debug\learnply.exe
+  0 File(s) copied
